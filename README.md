@@ -54,9 +54,14 @@ HEALTHBOT PAGE:
 
 
 **TECH STACK**
+
  ->Azure
+ 
  ->HTML
+ 
  ->CSS
+ 
  ->Bootstrap
+ 
  ->JavaScript
   

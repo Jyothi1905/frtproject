@@ -5,16 +5,22 @@ This is a web based application developed for health related based website.
 *## This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by microsoft,future skills prime,github,quess and EY.*
 
 **Azure Technologies used for this Project :**
+
     1.Static Web Apps.
+    
     2.Health bot
 
 **Project Link:- https://lemon-coast-0b9c2b500.3.azurestaticapps.net/ **
 
 
 **Features and Functionalities:**
+
    ->Interactive and Responsive UI.
+   
    ->User can know about Health related problems through this website.
+   
    ->Have an pleasing visual design and architecture.
+   
    ->Thus includes the Health Bot to know Health related issues from the AI-powered
      virtual health assistants.
      

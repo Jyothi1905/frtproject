@@ -10,7 +10,7 @@ This is a web based application developed for health related based website.
     
     2.Health bot
 
-**Project Link:- https://lemon-coast-0b9c2b500.3.azurestaticapps.net/ **
+**Project Link:- https://jyothi1905.github.io/frtproject/ **
 
 
 **Features and Functionalities:**
@@ -29,29 +29,27 @@ This is a web based application developed for health related based website.
 
 HOME PAGE:
 
-![2023-06-15 (3)](https://github.com/Jyothi1905/frtproject/assets/124034217/36f667d7-f466-4350-b959-f48ec50050b5)
- 
-MEDICAL DETAILS PAGE:
+![2023-06-15 (9)](https://github.com/Jyothi1905/frtproject/assets/124034217/369cb491-ec9a-4e58-b9fb-66bd3e5123b5)
 
-![2023-06-15 (4)](https://github.com/Jyothi1905/frtproject/assets/124034217/6a544342-31d3-4bcf-bbdc-94a2f6cae47c)
+ABOUT US PAGE:
 
-PATIENTS DETAILS:
+![2023-06-15 (10)](https://github.com/Jyothi1905/frtproject/assets/124034217/c957cb08-6dd8-4d54-9531-37d634c74fc0)
 
-![2023-06-15 (5)](https://github.com/Jyothi1905/frtproject/assets/124034217/f0f44151-38de-4aa5-8b1c-46a0c841b9c2)
+SERVICES PAGE:
 
-PATIENTS PROFILE PAGE:
+![2023-06-15 (11)](https://github.com/Jyothi1905/frtproject/assets/124034217/a4800dd6-5616-41a2-bba5-0eaf2c6de167)
 
-![2023-06-15 (6)](https://github.com/Jyothi1905/frtproject/assets/124034217/2feadd7d-6b8d-4fcf-bb12-c595eb5aa527)
+PHOTOS PAGE:
+
+![2023-06-15 (12)](https://github.com/Jyothi1905/frtproject/assets/124034217/825d60cf-ecf4-478d-9c7a-63cade2c1d96)
 
 CONTACT US PAGE:
 
-![2023-06-15 (7)](https://github.com/Jyothi1905/frtproject/assets/124034217/8b57f7e4-74d7-47b4-a979-cdc68162f2e9)
+![2023-06-15 (13)](https://github.com/Jyothi1905/frtproject/assets/124034217/81efde91-9cf1-43ef-b9bd-55002474f5f9)
 
 HEALTHBOT PAGE:
 
-![2023-06-15 (8)](https://github.com/Jyothi1905/frtproject/assets/124034217/cd9ff4e1-4dd9-4f47-9721-887d16ed219f)
-
-
+[SCC.docx](https://github.com/Jyothi1905/frtproject/files/11758026/SCC.docx)
 
 **TECH STACK**
 
